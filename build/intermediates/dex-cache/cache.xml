@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/junhyeok/.android/build-cache/eb0ce253188cb4815b484e5f49943e451d63434d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/junhyeok/blote-android/app/build/intermediates/pre-dexed/release/classes_135e3edeb9edef0d657c8334524a2c7a2f86b41c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/junhyeok/.android/build-cache/cf00e23b1e8513a35760ed142577f55273e4f99d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/junhyeok/blote-android/app/build/intermediates/pre-dexed/release/classes_6e6864c68aefa9533a0b7a90d2c7e89d31401593.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/junhyeok/.android/build-cache/9a23b2231bd44998de45dd2f1415b3f2e7bcbe04/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/junhyeok/blote-android/app/build/intermediates/pre-dexed/release/classes_bbf85d270d7efd9b47e27b23c3686dc9de16dee1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/junhyeok/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/junhyeok/blote-android/app/build/intermediates/pre-dexed/release/constraint-layout-solver-1.0.2_05555fa709bb26d43bd96344ea0170565fe64107.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/junhyeok/.android/build-cache/b3592c5c53b29da54dc68d966af24e0ec6e3e122/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/junhyeok/blote-android/app/build/intermediates/pre-dexed/release/classes_ef29886dbc958b5484d1baa4c6009b802516c4d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/junhyeok/.android/build-cache/7801f0ea3f910e993b05178dafc32b9a2b44e4f7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/junhyeok/blote-android/app/build/intermediates/pre-dexed/release/classes_5ab371670f40532b5a82404d8cb7578d21071beb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/junhyeok/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/junhyeok/blote-android/app/build/intermediates/pre-dexed/release/support-annotations-26.0.0-alpha1_471efe4d27bc86d7dc904c66d07945e2796ddd40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/junhyeok/.android/build-cache/280eedd52f9f40837702edf409fca8bd7e470190/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/junhyeok/blote-android/app/build/intermediates/pre-dexed/release/classes_50a78344935b858b3c3a331638f1d44322b3b0b2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/junhyeok/blote-android/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/junhyeok/blote-android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_1c25b70f6fc6f1e72618fc1d1ffcbd71f12efe49/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/junhyeok/.android/build-cache/124547dd2822e0efecb4110bcc1b450e40c079eb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/junhyeok/blote-android/app/build/intermediates/pre-dexed/release/classes_98f25ced4738c700a136bcc16de139f1dae2b8c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/junhyeok/.android/build-cache/b09abd72a5f44d8ae4b3604840ead9b5396d9de3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/junhyeok/blote-android/app/build/intermediates/pre-dexed/release/classes_a05e1d501cbf53c9f78518b2fe59d0de3fe3742f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/junhyeok/.android/build-cache/7b56c74d1a2452c69dcaa5063da5484735f60a8d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/junhyeok/blote-android/app/build/intermediates/pre-dexed/release/classes_3c9d6426bb093bd4ea753a88344261fd66279e5f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/junhyeok/blote-android/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bd597e869a09537d311489e54285878c4efa008d">
+        <dex dex="/Users/junhyeok/blote-android/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_11af52dd9dceb4c2daa7d30a3fdf43216a1f4826/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/junhyeok/.android/build-cache/6b17aad20f6998573209ee921f07ca75fbcf5aee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/junhyeok/blote-android/app/build/intermediates/pre-dexed/release/classes_2875b751c04dfeda784cbd6f294857d8fa3ed989.jar" />
+    </item>
+
+</items>
